@@ -44,8 +44,8 @@
       "active": true
     },
     {
-      "repA": "bacteria",
-      "repB": "hairspray",
+      "repA": "bacterial",
+      "repB": "aerosol",
       "type": "Simple",
       "case": "Maintain",
       "active": true
@@ -66,7 +66,7 @@
     },
     {
       "repA": "bacterial",
-      "repB": "aerosol",
+      "repB": "hairspray",
       "type": "Simple",
       "case": "Maintain",
       "active": true
@@ -81,6 +81,13 @@
     {
       "repA": "intestinal",
       "repB": "forehead",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "patient",
+      "repB": "client",
       "type": "Simple",
       "case": "Maintain",
       "active": true
