@@ -23,71 +23,78 @@
       "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "disease",
       "repB": "bad hair day",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "therapeutic target",
       "repB": "hair treatment",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "gut microbe",
       "repB": "dandruff",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "bacterial",
       "repB": "aerosol",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "C. difficile",
       "repB": "Vidal Sassoon",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "antibiotic",
       "repB": "shampoo",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
-      "repA": "bacterial",
+      "active": true,
+      "case": "Maintain",
+      "repA": "bacteria",
       "repB": "hairspray",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "gut",
       "repB": "scalp",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "intestinal",
       "repB": "forehead",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "patient",
       "repB": "client",
+      "type": "Simple"
+    },
+    {
+      "repA": "health",
+      "repB": "sexiness",
       "type": "Simple",
       "case": "Maintain",
       "active": true
