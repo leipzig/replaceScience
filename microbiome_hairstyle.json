@@ -93,6 +93,13 @@
       "type": "Simple"
     },
     {
+      "repA": "healthy",
+      "repB": "sexy",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
       "repA": "health",
       "repB": "sexiness",
       "type": "Simple",
