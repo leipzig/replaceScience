@@ -1,0 +1,89 @@
+{
+  "version": "2.0.10",
+  "replacements": [
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "microbiome",
+      "repB": "hairstyle",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "microbiota",
+      "repB": "hair follicles",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "microbial",
+      "repB": "hairy",
+      "type": "Simple"
+    },
+    {
+      "repA": "disease",
+      "repB": "bad hair day",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "therapeutic target",
+      "repB": "hair treatment",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "gut microbe",
+      "repB": "dandruff",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "bacteria",
+      "repB": "hairspray",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "C. difficile",
+      "repB": "Vidal Sassoon",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "antibiotic",
+      "repB": "shampoo",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "bacterial",
+      "repB": "aerosol",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "gut",
+      "repB": "scalp",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "intestinal",
+      "repB": "forehead",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    }
+  ]
+}
