@@ -100,18 +100,32 @@
       "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "health ",
       "repB": "sexiness ",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "healthcare",
       "repB": "fashion",
-      "type": "Simple",
+      "type": "Simple"
+    },
+    {
+      "active": true,
       "case": "Maintain",
-      "active": true
+      "repA": "pathogen",
+      "repB": "split end",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Clostridium difficile",
+      "repB": "mange",
+      "type": "Simple"
     }
   ]
 }
