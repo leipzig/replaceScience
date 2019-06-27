@@ -102,8 +102,8 @@
     {
       "active": true,
       "case": "Maintain",
-      "repA": "health ",
-      "repB": "sexiness ",
+      "repA": "health",
+      "repB": "sexiness",
       "type": "Simple"
     },
     {
@@ -125,6 +125,34 @@
       "case": "Maintain",
       "repA": "Clostridium difficile",
       "repB": "mange",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "microbe",
+      "repB": "hair",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "sequencing",
+      "repB": "hairdressing",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "metagenomic",
+      "repB": "haircut",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "oral",
+      "repB": "facial",
       "type": "Simple"
     }
   ]
