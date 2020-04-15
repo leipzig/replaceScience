@@ -26,7 +26,21 @@
       "active": true,
       "case": "Maintain",
       "repA": "disease",
-      "repB": "freestyle moves",
+      "repB": "freestyling",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "fever",
+      "repB": "Cabbage Patch",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "breathing",
+      "repB": "dancing",
       "type": "Simple"
     },
     {
@@ -46,13 +60,6 @@
     {
       "active": true,
       "case": "Maintain",
-      "repA": " RNA",
-      "repB": " backbeat",
-      "type": "Simple"
-    },
-    {
-      "active": true,
-      "case": "Maintain",
       "repA": "transmission",
       "repB": "dance-off",
       "type": "Simple"
@@ -66,7 +73,7 @@
     },
     {
       "active": true,
-      "case": "Maintain",
+      "case": "Override",
       "repA": "SARS-CoV-2",
       "repB": "popping and locking",
       "type": "Simple"
@@ -74,8 +81,8 @@
     {
       "active": true,
       "case": "Maintain",
-      "repA": "Choreographed Freestyle Robot",
-      "repB": "scalp",
+      "repA": "face",
+      "repB": "choreographed freestyle robot",
       "type": "Simple"
     },
     {
@@ -102,7 +109,7 @@
     {
       "active": true,
       "case": "Maintain",
-      "repA": "health",
+      "repA": "wellness",
       "repB": "sexiness",
       "type": "Simple"
     },
@@ -159,7 +166,7 @@
       "active": true,
       "case": "Maintain",
       "repA": "death",
-      "repB": "defeat",
+      "repB": "dance-off defeat",
       "type": "Simple"
     },
     {
@@ -200,8 +207,43 @@
     {
       "active": true,
       "case": "Maintain",
-      "repA": "COVID",
-      "repB": "Berlin Dance Battle 3D",
+      "repA": "sars-cov-2",
+      "repB": "Breakin' 2: Electric Boogaloo",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "headache",
+      "repB": "the Humpty Dance",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Tiredness",
+      "repB": "the worm",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Aches",
+      "repB": "the moonwalk",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "diarrhea",
+      "repB": "the Roger Rabbit",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "vomiting",
+      "repB": "the Mike Tyson",
       "type": "Simple"
     }
   ]
