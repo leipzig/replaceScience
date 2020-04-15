@@ -10,7 +10,7 @@
     },
     {
       "active": true,
-      "case": "Maintain",
+      "case": "Override",
       "repA": "COVID-19",
       "repB": "80's hip-hop dance",
       "type": "Simple"
@@ -46,8 +46,8 @@
     {
       "active": true,
       "case": "Maintain",
-      "repA": "RNA",
-      "repB": "backbeat",
+      "repA": " RNA",
+      "repB": " backbeat",
       "type": "Simple"
     },
     {
