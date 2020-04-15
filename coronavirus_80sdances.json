@@ -168,6 +168,13 @@
       "repA": "care",
       "repB": "party",
       "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "CFR",
+      "repB": "DJ",
+      "type": "Simple"
     }
   ]
 }
