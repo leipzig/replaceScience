@@ -245,6 +245,20 @@
       "repA": "vomiting",
       "repB": "the Mike Tyson",
       "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "masks",
+      "repB": "parachute pants",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "mask",
+      "repB": "dance outfit",
+      "type": "Simple"
     }
   ]
 }
