@@ -1,0 +1,173 @@
+{
+  "version": "2.0.10",
+  "replacements": [
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "coronavirus",
+      "repB": "breakdancing",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "COVID-19",
+      "repB": "80's hip-hop dance",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "epidemic",
+      "repB": "dance epidemic",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "disease",
+      "repB": "freestyle moves",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "nasopharyngeal",
+      "repB": "Boogaloo",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "respiratory",
+      "repB": "hip-hop",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "RNA",
+      "repB": "backbeat",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "transmission",
+      "repB": "dance-off",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "asymptomatic",
+      "repB": "just clapping",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "SARS-CoV-2",
+      "repB": "popping and locking",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Choreographed Freestyle Robot",
+      "repB": "scalp",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "epidemiological",
+      "repB": "musical",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "health",
+      "repB": "strutting",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "healthy",
+      "repB": "sexy",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "health",
+      "repB": "sexiness",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "healthcare",
+      "repB": "fashion",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "pathogen",
+      "repB": "wicked rad move",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "pandemic",
+      "repB": "dance craze",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "microbe",
+      "repB": "dime-stop",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "virus",
+      "repB": "dance",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "cough",
+      "repB": "glide",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "death",
+      "repB": "defeat",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "patients",
+      "repB": "competitors",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "care",
+      "repB": "party",
+      "type": "Simple"
+    }
+  ]
+}
