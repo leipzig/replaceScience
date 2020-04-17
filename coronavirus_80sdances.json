@@ -207,6 +207,13 @@
     {
       "active": true,
       "case": "Maintain",
+      "repA": "respirator",
+      "repB": "main stage",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
       "repA": "sars-cov-2",
       "repB": "Breakin' 2: Electric Boogaloo",
       "type": "Simple"
@@ -258,6 +265,13 @@
       "case": "Maintain",
       "repA": "mask",
       "repB": "dance outfit",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "case",
+      "repB": "groove",
       "type": "Simple"
     }
   ]
