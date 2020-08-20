@@ -103,6 +103,13 @@
       "repA": "real estate",
       "repB": "livestock",
       "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "rental propert",
+      "repB": "equine propert",
+      "type": "Simple"
     }
   ]
 }
