@@ -7,6 +7,12 @@
       "repA": "house",
       "repB": "horse",
       "type": "Simple"
+    },{
+      "active": true,
+      "case": "Maintain",
+      "repA": "housing is",
+      "repB": "horses are",
+      "type": "Simple"
     },
     {
       "active": true,
@@ -56,6 +62,41 @@
       "repA": "landlord",
       "repB": "farrier",
       "type": "Simple"
-    }
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "shelter",
+      "repB": "transport",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "tenant",
+      "repB": "rider",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "live in",
+      "repB": "ride with",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "place to live",
+      "repB": "animal to ride",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "real estate",
+      "repB": "livestock",
+      "type": "Simple"
+    },
   ]
 }
