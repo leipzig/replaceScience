@@ -1,0 +1,33 @@
+{
+  "version": "2.0.10",
+  "replacements": [
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "house",
+      "repB": "horse",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "housing",
+      "repB": "horses",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "accumulating housing",
+      "repB": "accumulating ",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "landlord",
+      "repB": "farrier",
+      "type": "Simple"
+    }
+  ]
+}
