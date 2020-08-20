@@ -76,6 +76,12 @@
       "repA": "tenant",
       "repB": "rider",
       "type": "Simple"
+    },{
+      "active": true,
+      "case": "Maintain",
+      "repA": "renter",
+      "repB": "rider",
+      "type": "Simple"
     },
     {
       "active": true,
