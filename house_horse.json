@@ -25,6 +25,20 @@
     {
       "active": true,
       "case": "Maintain",
+      "repA": "home",
+      "repB": "mare ",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "property",
+      "repB": "livestock ",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
       "repA": "landlord",
       "repB": "farrier",
       "type": "Simple"
