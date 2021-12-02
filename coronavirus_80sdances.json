@@ -273,6 +273,13 @@
       "repA": "case",
       "repB": "groove",
       "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "omicron",
+      "repB": "dance-a-thon",
+      "type": "Simple"
     }
   ]
 }
