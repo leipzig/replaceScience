@@ -280,6 +280,20 @@
       "repA": "omicron",
       "repB": "dance-a-thon",
       "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "vaccine",
+      "repB": "nerd",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "vaccination",
+      "repB": "buzzkill",
+      "type": "Simple"
     }
   ]
 }
