@@ -17,6 +17,13 @@
     },
     {
       "active": true,
+      "case": "Override",
+      "repA": "Covid",
+      "repB": "hip-hop",
+      "type": "Simple"
+    },
+    {
+      "active": true,
       "case": "Maintain",
       "repA": "epidemic",
       "repB": "dance epidemic",
