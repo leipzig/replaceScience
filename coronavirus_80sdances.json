@@ -301,6 +301,13 @@
       "repA": "vaccination",
       "repB": "buzzkill",
       "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "lock",
+      "repB": "pop-and-lock",
+      "type": "Simple"
     }
   ]
 }
