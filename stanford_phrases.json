@@ -1,0 +1,82 @@
+{
+  "version": "2.0.10",
+  "replacements": [
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "stand up",
+      "repB": "leg-based ascension",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "insane",
+      "repB": "wacko",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "insanity",
+      "repB": "craziness",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "sanity",
+      "repB": "mental stability",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "brave",
+      "repB": "noble and courageous like some indigenous male savage",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "American",
+      "repB": "North American but not from Canada or Mexico or some island",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "user",
+      "repB": "fiend",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "a dead horse",
+      "repB": "Barbaro",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "trigger warning",
+      "repB": "holy shit you won't beleive what comes next",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "you guys",
+      "repB": "you non-gendered individuals of no particular ilk",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "walk-in",
+      "repB": "show up and throw up",
+      "type": "Simple"
+    }
+  ]
+}
