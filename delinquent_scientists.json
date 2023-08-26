@@ -1,0 +1,166 @@
+{
+               "version": "2.0.10",
+               "replacements": [
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "kid",
+                                             "repB": "scientist",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "children",
+                                             "repB": "trainees",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "child",
+                                             "repB": "trainee",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "youths",
+                                             "repB": "faculty",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "youth",
+                                             "repB": "faculty",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "teenager",
+                                             "repB": "researcher",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "teen",
+                                             "repB": "researcher",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "parental",
+                                             "repB": "departmental",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "adults",
+                                             "repB": "staff",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "parent",
+                                             "repB": "dean",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "daughter",
+                                             "repB": "molecular biologist",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": " son ",
+                                             "repB": " sociologist ",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "adolescent",
+                                             "repB": "tenure-track faculty",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "principal",
+                                             "repB": "facilities manager",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "crime",
+                                             "repB": "scientific misconduct",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "theft",
+                                             "repB": "plagiarism",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "drugs",
+                                             "repB": "personally identifiable information",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "drinking",
+                                             "repB": "p-hacking",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "shoplifting",
+                                             "repB": "reordering cells",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "burglary",
+                                             "repB": "self-citation",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "assault",
+                                             "repB": "falsifying data",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "public intoxication",
+                                             "repB": "selective reporting",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "breaking and entering",
+                                             "repB": "HARKing",
+                                             "type": "Simple"
+                              }
+               ]
+}
