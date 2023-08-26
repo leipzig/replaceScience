@@ -161,6 +161,27 @@
                                              "repA": "breaking and entering",
                                              "repB": "HARKing",
                                              "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "juvenile delinquency",
+                                             "repB": "scientific misconduct",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "juvenile delinquent",
+                                             "repB": "offending trainee",
+                                             "type": "Simple"
+                              },
+                              {
+                                             "active": true,
+                                             "case": "Maintain",
+                                             "repA": "juvenile",
+                                             "repB": "trainee",
+                                             "type": "Simple"
                               }
                ]
 }
